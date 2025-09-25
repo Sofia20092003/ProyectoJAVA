@@ -1,9 +1,6 @@
 package ejercicio1;
 
-import javax.xml.transform.OutputKeys;
 import java.util.Scanner;
-
-import static java.lang.System.out;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
